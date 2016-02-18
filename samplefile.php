@@ -1,0 +1,1 @@
+<?php echo 'this is just a sample file.'; ?>
